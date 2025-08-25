@@ -1,0 +1,5 @@
+# config.py
+XAI_API_KEY = "AIzaSyCvI8AXF6YwZYCFqZO_BSZdZ1HPZnG-mc4"
+EMAIL_ADDRESS = "cmh2297535372@gmail.com"
+EMAIL_PASSWORD = "uayp nuqs mxqq xgfn"
+RECIPIENT_EMAIL = "2297535372@qq.com"
